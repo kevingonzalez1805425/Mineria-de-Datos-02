@@ -1,6 +1,6 @@
 # Mineria-de-Datos-02
 Curso de Mineria de datos Kevin 1805425
-##Fase1
+# Fase I
 
 [Mapa Mental 1 ](https://github.com/kevingonzalez1805425/Mineria-de-Datos-02/blob/master/Mapamental%201%20Mineria.pdf)
 
@@ -13,3 +13,5 @@ Curso de Mineria de datos Kevin 1805425
 [Resumenes Presentaciones (8)](https://github.com/kevingonzalez1805425/Mineria-de-Datos-02/blob/master/Resumenes_1805425...pdf)
 
 [Resumen presentaciones en Word ya que el archivo al cambiarlo a pdf no es muy visible](https://github.com/kevingonzalez1805425/Mineria-de-Datos-02/blob/master/Resumenes_1805425.docx)
+
+# Fase II
