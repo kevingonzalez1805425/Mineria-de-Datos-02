@@ -15,3 +15,4 @@ Curso de Mineria de datos Kevin 1805425
 [Resumen presentaciones en Word ya que el archivo al cambiarlo a pdf no es muy visible](https://github.com/kevingonzalez1805425/Mineria-de-Datos-02/blob/master/Resumenes_1805425.docx)
 
 # Fase II
+[Analisis_BD](https://github.com/kevingonzalez1805425/Mineria-de-Datos-02/blob/master/ANALISIS_BD1805425.pdf)
