@@ -18,3 +18,6 @@ Curso de Mineria de datos Kevin 1805425
 [Analisis_BD](https://github.com/kevingonzalez1805425/Mineria-de-Datos-02/blob/master/ANALISIS_BD1805425.pdf)
 
 [Ejercicios 1 Phyton Basicos](https://github.com/kevingonzalez1805425/Mineria-de-Datos-02/blob/master/PhytonBasico_1805425.ipynb)
+
+[Avance 1 PIA Equipo 06](https://github.com/kevingonzalez1805425/Mineria-de-Datos-02/blob/master/Avance%201-PIA_Equipo06_Grupo02%20pdf.pdf)
+
