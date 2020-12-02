@@ -26,4 +26,5 @@ Curso de Mineria de datos Kevin 1805425
 # Fase III
 
 [Avance del PIA II](https://github.com/relizondo12/mineria/blob/master/Avance%20PIA_II_02_06.ipynb)
+
 [POSTER](https://github.com/kevingonzalez1805425/Mineria-de-Datos-02/blob/master/PIA_Equipo06_Grupo02..pdf)
